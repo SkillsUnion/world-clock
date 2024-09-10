@@ -4,7 +4,7 @@ import Clock from "./Clock";
 function App() {
   return (
     <>
-      <h1>World Clock final</h1>
+      <h1>World Clock</h1>
       <div className="card">
         <Clock timeZone="Asia/Singapore" />
         <Clock timeZone="Europe/London" />
