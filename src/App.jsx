@@ -1,4 +1,3 @@
-import logo from "/logo.png";
 import "./App.css";
 
 // import required React hooks for this component, useState will implement state, where as useEffect facilitates implementation of LifeCycle methods
