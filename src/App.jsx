@@ -25,9 +25,6 @@ function App() {
 
   return (
     <>
-      <div>
-        <img src={logo} className="logo" alt="Rocket logo" />
-      </div>
       <h1>World Clock</h1>
       <div className="card">
         {/* Render date value that is stored in state */}
